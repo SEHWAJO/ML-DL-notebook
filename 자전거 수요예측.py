@@ -1,18 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
 # # 데이터셋 컬럼들의 의미 잘 이해하기
 
 # ▶ feature Description
